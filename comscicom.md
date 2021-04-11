@@ -1,7 +1,7 @@
 # Computer Science Communication
 
-- Student Name:
-- Student #:
+- Student Name: Abhishek Moturu
+- Student #: 1001019925
 
 ## Sharing
 
@@ -19,7 +19,7 @@ If you want to submit directly via MarkUs please include your submission in a si
 
 Make sure you submit markdown and any media you produced (images, animations, diagrams, gifs).
 
-![](./img/embedcat.jpg)
+![](./gan-horse.png)
 
 Give visual content a description. Include technical explanation that would allow anyone in our course to understand the concept being visualized.
 
