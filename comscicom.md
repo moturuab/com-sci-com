@@ -7,10 +7,12 @@
 
 I will post the image along with an explanation on my personal twitter [@AbhishekMoturu](https://twitter.com/AbhishekMoturu) and am comfortable being retweeted by [@ProbablyLearn](https://twitter.com/ProbablyLearn).
 
-## Direct Submissions
+## Generative Adversarial Networks
 
 ![](./gan-horse.png)
 
 Source: [Meme Generator](https://imgflip.com/i/558lk5)
 
+![](./gan-office.png)
 
+Source: [Meme Generator](https://imgflip.com/i/558lk5)
