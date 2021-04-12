@@ -27,6 +27,10 @@ In a similar line of thought as in the previous image, this image is a represent
 
 Using an adversarial approach, generative models can be estimated using GANs by simultaneously training (i.e. playing a 2-player minimax) with 2 models: a Generator and a Discriminator. While a Generator tries to emulate the training data distribution, the Discriminator guesses whether a given image comes from the training data distribution or from the Generator. The idea is that, over the course of training, the Generator goes from performing very poorly to very well and the Discriminator goes from performing very well to very poorly. This translates to the Generator being able to generate very good samples that seem like they could be from the training data distribution, by the end of training the GAN.
 
+The exact formulation of the 2-player minimax game between the Generator (G) and Discriminator (D) is as follows:
+
+$\alpha$
+
 Since the first paper on GANs in 2014, there have been many applications of GANs in the fields of [facial image generation](https://arxiv.org/abs/1812.04948), [medical image generation and anomaly detection](https://arxiv.org/abs/2006.00727), [3D object generation](http://3dgan.csail.mit.edu/papers/3dgan_nips.pdf), [super-resolution](https://arxiv.org/abs/1609.04802), and [astrophysics](https://arxiv.org/abs/1702.00403), to name a few.
 
 Source: [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
