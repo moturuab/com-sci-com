@@ -36,6 +36,8 @@ Note that the first term of the value function `V(D,G)` is the log probability o
 - We want the Generator to generate better images so that it may be able to fool the discriminator into thinking that the images it generated are from the training data distribution rather than generated from random noise. In other words, we want the Generator to get better at making the Discriminator assign incorrect labels to the images it generates. 
 - We want the Discriminator to get worse at correctly labeling both the training data (real) images and the generated (fake) images.
 
+By the end of training, we preferably want the training data distribution and the Generator distribution to be the same and the Discriminator to only have a 50% accuracy, i.e. random chance, at guessing whether a given data point comes from the training data distribution or the Generator distribution.
+
 Since the first paper on GANs in 2014, there have been many applications of GANs in the fields of [facial image generation](https://arxiv.org/abs/1812.04948), [fashion design](https://arxiv.org/abs/2007.10947), [medical image generation and anomaly detection](https://arxiv.org/abs/2006.00727), [3D object generation](http://3dgan.csail.mit.edu/papers/3dgan_nips.pdf), [super-resolution](https://arxiv.org/abs/1609.04802), and [astrophysics](https://arxiv.org/abs/1702.00403), to name a few.
 
 Source: [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
