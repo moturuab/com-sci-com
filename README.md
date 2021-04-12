@@ -9,6 +9,8 @@ I will post the image along with an explanation on my personal twitter [@Abhishe
 
 ## Generative Adversarial Networks (GANs)
 
+### Memes
+
 ![](./gan-horse.png)
 
 Source: [Meme Generator](https://imgflip.com/i/558lk5)
@@ -21,8 +23,6 @@ Source: [Meme Generator](https://imgflip.com/i/559d8n) (My thanks to Sasha Doubo
 
 In a similar line of thought as in the previous image, this image is a representation of the state of a GAN after successful training, once a unique solution is found. The Generator is able to generate images that perfectly match those in the training data distribution. So, at the end, the Discriminator will no longer be able to tell the difference between a real image (from the training data distribution) and a generated image (from the Generator). We see this depicted above as the real image and the generated image being "the same picture".
 
-The following is a technical explanation of GANs:
-
-
+### Technical Explanation
 
 Source: [Generative Adversarial Nets](https://arxiv.org/abs/1406.2661)
