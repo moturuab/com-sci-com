@@ -5,7 +5,7 @@
 
 ## Sharing
 
-I will post the image along with an explanation on the forum, on my personal twitter @AbhishekMoturu, and am comfortable being retweeted by @ProbablyLearn.
+I will post the image along with an explanation on the forum, on my personal twitter [@AbhishekMoturu](https://twitter.com/AbhishekMoturu) and am comfortable being retweeted by [@ProbablyLearn](https://twitter.com/ProbablyLearn).
 
 ## Direct Submissions
 
