@@ -1,10 +1,6 @@
-# Computer Science Communication
+# Abhishek Moturu
 
-Abhishek Moturu
-
-## Sharing
-
-I will post the image along with a small explanation on my personal Twitter account [@AbhishekMoturu](https://twitter.com/AbhishekMoturu) and am comfortable being retweeted by [@ProbablyLearn](https://twitter.com/ProbablyLearn).
+Twitter: [@AbhishekMoturu](https://twitter.com/AbhishekMoturu)
 
 ## Generative Adversarial Networks (GANs)
 
