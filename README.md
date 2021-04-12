@@ -5,7 +5,7 @@
 
 ## Sharing
 
-I will post the image along with an explanation on my personal twitter [@AbhishekMoturu](https://twitter.com/AbhishekMoturu) and am comfortable being retweeted by [@ProbablyLearn](https://twitter.com/ProbablyLearn).
+I will post the image along with a small explanation on my personal twitter [@AbhishekMoturu](https://twitter.com/AbhishekMoturu) and am comfortable being retweeted by [@ProbablyLearn](https://twitter.com/ProbablyLearn).
 
 ## Generative Adversarial Networks (GANs)
 
