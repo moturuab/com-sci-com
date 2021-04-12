@@ -29,7 +29,7 @@ Using an adversarial approach, generative models can be estimated using GANs by 
 
 The exact formulation of the 2-player minimax game between the Generator (G) and Discriminator (D) is as follows:
 
-$\alpha$
+$$ \alpha $$
 
 Since the first paper on GANs in 2014, there have been many applications of GANs in the fields of [facial image generation](https://arxiv.org/abs/1812.04948), [medical image generation and anomaly detection](https://arxiv.org/abs/2006.00727), [3D object generation](http://3dgan.csail.mit.edu/papers/3dgan_nips.pdf), [super-resolution](https://arxiv.org/abs/1609.04802), and [astrophysics](https://arxiv.org/abs/1702.00403), to name a few.
 
