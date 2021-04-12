@@ -10,6 +10,7 @@ I will post the image along with an explanation on my personal twitter [@Abhishe
 ## Direct Submissions
 
 ![](./gan-horse.png)
+
 Source: [Meme Generator](https://imgflip.com/i/558lk5)
 
 
