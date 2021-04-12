@@ -25,7 +25,7 @@ In a similar line of thought as in the previous image, this image is a represent
 
 ### Technical Explanation
 
-Using an adversarial approach, generative models can be estimated using GANs by simultaneously training (i.e. playing a 2-player minimax) with 2 models: a Generator and a Discriminator. While a Generator tries to emulate the training data distribution, the Discriminator guesses whether a given image comes from the training data distribution or from the Generator. The idea is that, over the course of training, the Generator goes from performing very poorly to very well and the Discriminator goes from performing very well to very poorly. This translates to the Generator being able to generate very good samples that seem like they could be from the training data distribution, by the end of training the GAN.
+Using an adversarial approach, generative models can be estimated using GANs by simultaneously training (i.e. playing a 2-player minimax) with 2 models: a Generator and a Discriminator. While a Generator tries to emulate the training data distribution, the Discriminator guesses whether a given image comes from the training data distribution or from the Generator. The idea is that, over the course of training, the Generator goes from performing very poorly to very well and the Discriminator goes from performing very well to very poorly. This translates to the Generator being able to generate very good samples that seem like they could be from the training data distribution, by the end of the GAN training.
 
 The exact formulation of the 2-player minimax game between the Generator (`G`) and Discriminator (`D`) is as follows:
 
