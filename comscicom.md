@@ -5,14 +5,11 @@
 
 ## Sharing
 
-I will post the image along with an explanation on the forum, on my personal twitter [@AbhishekMoturu](https://twitter.com/AbhishekMoturu) and am comfortable being retweeted by [@ProbablyLearn](https://twitter.com/ProbablyLearn).
+I will post the image along with an explanation on my personal twitter [@AbhishekMoturu](https://twitter.com/AbhishekMoturu) and am comfortable being retweeted by [@ProbablyLearn](https://twitter.com/ProbablyLearn).
 
 ## Direct Submissions
 
 ![](./gan-horse.png)
+Source: [Meme Generator](https://imgflip.com/i/558lk5)
 
-Give visual content a description. Include technical explanation that would allow anyone in our course to understand the concept being visualized.
 
-Include mathematical details with inline $\LaTeX$.
-
-You should link out to external resources. However, those should be supplementary, your submission should try to summarize the important aspects so that your submission is as self-contained as reasonable.
