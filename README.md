@@ -1,7 +1,6 @@
 # Computer Science Communication
 
-- Student Name: Abhishek Moturu
-- Student #: 1001019925
+Abhishek Moturu
 
 ## Sharing
 
